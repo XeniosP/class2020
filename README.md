@@ -1,2 +1,2 @@
-# class2020
-This contains examples for class
+# Example
+This contains examples for the Yale class BENG 406b
